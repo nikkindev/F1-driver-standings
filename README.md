@@ -2,6 +2,7 @@
 ===================
 Python scripts to get driver standings data from the Formula 1 website.  
 If you don't know what to do to get the driver standings file, click [here](https://github.com/nikkindev/F1-driver-standings/wiki)  
+
 **Package contains two files:**  
 * F1driverstandings.py - To create .txt file with driver standings data for any desired year
 * F1driverstandings_complete.py - To create .txt files for all the years automatically when the script is run
