@@ -1,4 +1,5 @@
 #F1-driver-standings
+_! This repo is archived since the Formula1 website changed the templates and structure of their sites and data_
 ===================
 Python scripts to get driver standings data from the Formula 1 website.  
 If you don't know what to do to get the driver standings file, click [here](https://github.com/nikkindev/F1-driver-standings/wiki)  
